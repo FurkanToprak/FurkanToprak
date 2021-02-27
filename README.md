@@ -1,4 +1,4 @@
-### Hi there 👋
+# howdy!
 
 - :rocket: making cool stuff.
 - :brain: interested in CS, math, ML, cognition, self-improving systems, and political theory.
