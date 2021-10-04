@@ -1,6 +1,5 @@
 # howdy!
 
-- :rocket: making cool stuff.
 - :brain: interested in intelligence, biological and artifical.
 - :alien: working hard so the aliens are impressed when they visit.
 - :mailbox: want to collab with me on a project? contact me [here](mailto:furkancemaltoprak@gmail.com).
