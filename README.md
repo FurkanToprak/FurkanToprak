@@ -1,6 +1,7 @@
 # Life Goal #1: Fix the plastic problem. 
-- My best guess on how to achieve this is to evolve known plastic-eating bacteria to become more efficient.
-- I want to create a warehouse of machines that iteratively grow and select the best plastic-eaters.
+- My best guess on how to achieve this is to evolve [known plastic-eating bacteria](https://www.science.org/doi/10.1126/science.aad6359) to become more efficient. 
+- One problem here is that the bacteria _Ideonella sakaiensis_ can only break down PET and cannot break down the plastic completely.
+- I want to create a warehouse of machines that iteratively grow and select the best plastic-eaters. This would be a machine similar to the [Morbidostat](https://www.nature.com/articles/nprot.2013.021).
 - I'm looking for people with skills, labor, and funding. If you are a biologist, chemist, or roboticist, contact me.
 
 # Life Goal #2: Invent Neural Search Engine
